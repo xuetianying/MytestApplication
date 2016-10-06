@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{3F70A59A-11F8-4EE1-9D87-B29CEABD26C2}</ProjectGuid>
+    <ProjectGuid>{9A2D233E-9C97-455B-ACA2-72D01F9B8354}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AbstractFactoryPattern</RootNamespace>
-    <AssemblyName>AbstractFactoryPattern</AssemblyName>
+    <RootNamespace>SimpleFactory</RootNamespace>
+    <AssemblyName>SimpleFactory</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
@@ -33,8 +33,17 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>SimpleFactory.OriginalExample.Client</StartupObject>
+  </PropertyGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Compile Include="Client.cs" />
+    <Compile Include="OriginalExample\Client.cs" />
+    <Compile Include="OriginalExample\ConcreteProductA.cs" />
+    <Compile Include="OriginalExample\ConcreteProductB.cs" />
+    <Compile Include="OriginalExample\Factory.cs" />
+    <Compile Include="OriginalExample\Iproduct.cs" />
+    <Compile Include="OriginalExample\Product.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />

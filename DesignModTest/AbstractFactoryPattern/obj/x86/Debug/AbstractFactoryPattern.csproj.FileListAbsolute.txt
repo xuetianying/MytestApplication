@@ -1,0 +1,4 @@
+F:\C#\MytestApplication\DesignModTest\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+F:\C#\MytestApplication\DesignModTest\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+F:\C#\MytestApplication\DesignModTest\AbstractFactoryPattern\obj\x86\Debug\AbstractFactoryPattern.exe
+F:\C#\MytestApplication\DesignModTest\AbstractFactoryPattern\obj\x86\Debug\AbstractFactoryPattern.pdb
