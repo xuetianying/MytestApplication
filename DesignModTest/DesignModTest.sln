@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Creational patterns创建型模式", "1-Creational patterns创建型模式", "{9CD0F64F-5F72-4B8E-B00E-9792F4647A64}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Structural Patterns(结构型模式)", "2-Structural Patterns(结构型模式)", "{5EF0AB22-292E-4EA3-BA4A-4B1AEBE15C5F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Adapter(适配器模式)", "Adapter(适配器模式)", "{CF35194A-C7DD-49F6-8DE0-E7C507A30B9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPattern", "AdapterPattern\AdapterPattern.csproj", "{150733FC-38A6-4387-83AD-A322F192C949}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AbstractFactory（抽象工厂）", "AbstractFactory（抽象工厂）", "{0DFF607E-C82B-4D45-821B-87B7FF73AB23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryPattern", "AbstractFactoryPattern\AbstractFactoryPattern.csproj", "{3F70A59A-11F8-4EE1-9D87-B29CEABD26C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{150733FC-38A6-4387-83AD-A322F192C949}.Debug|x86.ActiveCfg = Debug|x86
+		{150733FC-38A6-4387-83AD-A322F192C949}.Debug|x86.Build.0 = Debug|x86
+		{150733FC-38A6-4387-83AD-A322F192C949}.Release|x86.ActiveCfg = Release|x86
+		{150733FC-38A6-4387-83AD-A322F192C949}.Release|x86.Build.0 = Release|x86
+		{3F70A59A-11F8-4EE1-9D87-B29CEABD26C2}.Debug|x86.ActiveCfg = Debug|x86
+		{3F70A59A-11F8-4EE1-9D87-B29CEABD26C2}.Debug|x86.Build.0 = Debug|x86
+		{3F70A59A-11F8-4EE1-9D87-B29CEABD26C2}.Release|x86.ActiveCfg = Release|x86
+		{3F70A59A-11F8-4EE1-9D87-B29CEABD26C2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0DFF607E-C82B-4D45-821B-87B7FF73AB23} = {9CD0F64F-5F72-4B8E-B00E-9792F4647A64}
+		{CF35194A-C7DD-49F6-8DE0-E7C507A30B9F} = {5EF0AB22-292E-4EA3-BA4A-4B1AEBE15C5F}
+		{150733FC-38A6-4387-83AD-A322F192C949} = {CF35194A-C7DD-49F6-8DE0-E7C507A30B9F}
+		{3F70A59A-11F8-4EE1-9D87-B29CEABD26C2} = {0DFF607E-C82B-4D45-821B-87B7FF73AB23}
+	EndGlobalSection
+EndGlobal

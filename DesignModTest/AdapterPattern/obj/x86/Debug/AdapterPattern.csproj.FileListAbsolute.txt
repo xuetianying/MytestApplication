@@ -1,0 +1,4 @@
+F:\C#\MytestApplication\DesignModTest\AdapterPattern\bin\Debug\AdapterPattern.exe
+F:\C#\MytestApplication\DesignModTest\AdapterPattern\bin\Debug\AdapterPattern.pdb
+F:\C#\MytestApplication\DesignModTest\AdapterPattern\obj\x86\Debug\AdapterPattern.exe
+F:\C#\MytestApplication\DesignModTest\AdapterPattern\obj\x86\Debug\AdapterPattern.pdb
