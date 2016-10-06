@@ -1,0 +1,5 @@
+F:\C#\MytestApplication\MyLearnNote\MyLearnNote\bin\Debug\MyLearnNote.exe
+F:\C#\MytestApplication\MyLearnNote\MyLearnNote\bin\Debug\MyLearnNote.pdb
+F:\C#\MytestApplication\MyLearnNote\MyLearnNote\obj\x86\Debug\MyLearnNote.exe
+F:\C#\MytestApplication\MyLearnNote\MyLearnNote\obj\x86\Debug\MyLearnNote.pdb
+F:\C#\MytestApplication\MyLearnNote\MyLearnNote\obj\x86\Debug\MyLearnNote.csprojResolveAssemblyReference.cache
