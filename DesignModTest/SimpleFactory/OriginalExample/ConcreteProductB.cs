@@ -5,7 +5,8 @@ using System.Text;
 
 namespace SimpleFactory.OriginalExample
 {
-    public class ConcreteProductB:Product
+    //B类型的产品
+    public class ConcreteProductB:Product,Iproduct
     {
 
     }

@@ -10,6 +10,6 @@ namespace SimpleFactory.OriginalExample
     /// </summary>
     public interface Iproduct
     {
-
+        void Display();
     }
 }
