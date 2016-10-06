@@ -1,0 +1,11 @@
+F:\C#\MytestApplication\MyWpfApplication\MyWpfApplication\bin\Debug\MyWpfApplication.exe
+F:\C#\MytestApplication\MyWpfApplication\MyWpfApplication\bin\Debug\MyWpfApplication.pdb
+F:\C#\MytestApplication\MyWpfApplication\MyWpfApplication\obj\x86\Debug\MainWindow.baml
+F:\C#\MytestApplication\MyWpfApplication\MyWpfApplication\obj\x86\Debug\MainWindow.g.cs
+F:\C#\MytestApplication\MyWpfApplication\MyWpfApplication\obj\x86\Debug\App.g.cs
+F:\C#\MytestApplication\MyWpfApplication\MyWpfApplication\obj\x86\Debug\MyWpfApplication_MarkupCompile.cache
+F:\C#\MytestApplication\MyWpfApplication\MyWpfApplication\obj\x86\Debug\MyWpfApplication.g.resources
+F:\C#\MytestApplication\MyWpfApplication\MyWpfApplication\obj\x86\Debug\MyWpfApplication.Properties.Resources.resources
+F:\C#\MytestApplication\MyWpfApplication\MyWpfApplication\obj\x86\Debug\MyWpfApplication.csproj.GenerateResource.Cache
+F:\C#\MytestApplication\MyWpfApplication\MyWpfApplication\obj\x86\Debug\MyWpfApplication.exe
+F:\C#\MytestApplication\MyWpfApplication\MyWpfApplication\obj\x86\Debug\MyWpfApplication.pdb
