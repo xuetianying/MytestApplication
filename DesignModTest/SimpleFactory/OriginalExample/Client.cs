@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Configuration;
 
 namespace SimpleFactory.OriginalExample
 {
@@ -16,10 +17,12 @@ namespace SimpleFactory.OriginalExample
         //看来无法用委托来代替简单工厂类哦
         delegate ConcreteProductC Mydel();
         //delegate void Mydel();
+        private static readonly string ChooseProduct = ConfigurationManager.AppSettings["CreateProduct"];
         static void Main(string[] args)
         {
-            //测试选择ProductA
-            string ChooseProduct="ProductA";
+            //测试选择ProductA，由于要在程序中更改ChooseProduct不方便，所以可以利用配置文件实现
+            //string ChooseProduct="ProductA";
+            
             Product product = Factory.CreateProduct(ChooseProduct);
             Console.WriteLine("Created {0} by abstact class", product.GetType().Name);
             //测试方案二

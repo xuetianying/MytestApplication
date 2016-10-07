@@ -2,3 +2,4 @@ F:\C#\MytestApplication\DesignModTest\SimpleFactory\bin\Debug\SimpleFactory.exe
 F:\C#\MytestApplication\DesignModTest\SimpleFactory\bin\Debug\SimpleFactory.pdb
 F:\C#\MytestApplication\DesignModTest\SimpleFactory\obj\x86\Debug\SimpleFactory.exe
 F:\C#\MytestApplication\DesignModTest\SimpleFactory\obj\x86\Debug\SimpleFactory.pdb
+F:\C#\MytestApplication\DesignModTest\SimpleFactory\bin\Debug\SimpleFactory.exe.config
