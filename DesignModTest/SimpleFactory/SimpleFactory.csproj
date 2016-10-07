@@ -41,6 +41,7 @@
     <Compile Include="OriginalExample\Client.cs" />
     <Compile Include="OriginalExample\ConcreteProductA.cs" />
     <Compile Include="OriginalExample\ConcreteProductB.cs" />
+    <Compile Include="OriginalExample\ConcreteProductC.cs" />
     <Compile Include="OriginalExample\Factory.cs" />
     <Compile Include="OriginalExample\Iproduct.cs" />
     <Compile Include="OriginalExample\Product.cs" />

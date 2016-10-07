@@ -13,6 +13,9 @@ namespace SimpleFactory.OriginalExample
      /// </summary>
     public class Client
     {
+        //看来无法用委托来代替简单工厂类哦
+        delegate ConcreteProductC Mydel();
+        //delegate void Mydel();
         static void Main(string[] args)
         {
             //测试选择ProductA
@@ -23,7 +26,10 @@ namespace SimpleFactory.OriginalExample
             Iproduct iproduct = Factory.Create(ChooseProduct);
             iproduct.Display();
             Console.WriteLine("Created {0} by Interface", iproduct.GetType().Name);
-
+            //方案三，有问题，返回类型不对
+            Mydel createProduct ;
+            createProduct = new Mydel(ConcreteProductC.CreateC);
+            Console.WriteLine("Created {0} by delegate", createProduct.GetType().Name);
         }
     }
 }
